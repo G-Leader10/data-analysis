@@ -28,7 +28,7 @@ Vehicle Location: In cases where the vehicle was designed for electric motors, t
 
 Problem statement
 
-A. KPIâ€™S Requirement 
+A. KPI'S Requirement 
 1. Total Vehicles:
 Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 

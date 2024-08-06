@@ -1,3 +1,4 @@
+project link: https://public.tableau.com/app/profile/kika.bulambo.arsene/viz/electricvehical/Dashboard1?publish=yes
 
 # Electrical vehicles data analysis
 
@@ -144,3 +145,4 @@ In a new sheet, we added model, make, and electric vehicle type into rows, and t
 - Tesla is the leading 
 - some have both BEV and PEHV 
 
+project link: https://public.tableau.com/app/profile/kika.bulambo.arsene/viz/electricvehical/Dashboard1?publish=yes
